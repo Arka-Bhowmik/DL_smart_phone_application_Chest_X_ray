@@ -1,4 +1,4 @@
-# DL_smart_phone_application_Chest_X_ray
+# Deep learning enabled application to classify digital Chest X-ray on smart-phone 
 Artificial Intelligence (AI) smartphone application for detecting COVID-19-related pneumonia from non-COVID-19 pneumonia and normal chest radiographs.
 
 
